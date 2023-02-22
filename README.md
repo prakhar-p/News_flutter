@@ -1,8 +1,9 @@
 # News_flutter
-##Technology used:
-###Firebase - for Authentication
-###REST API - for fetching data
-###Flutter - framework
+#Technology used:
+
+##Firebase - for Authentication
+##REST API - for fetching data
+##Flutter - framework
 ##Result
 ## registering for account
 
