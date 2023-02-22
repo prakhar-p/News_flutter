@@ -3,7 +3,7 @@
 ###Firebase - for Authentication
 ###REST API - for fetching data
 ###Flutter - framework
-#Result
+##Result
 ## registering for account
 
 https://user-images.githubusercontent.com/74608125/220526201-a619f402-93af-4a4e-ae19-a8930e434bb3.mp4
